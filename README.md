@@ -1,18 +1,15 @@
 # 💫 Hi 👋, I'm Amit
-**A passionate Software Developer || Full stack**
+** A passionate Software Developer from India 🇮🇳 who loves turning ideas into modern, innovative, and impactful applications.**
 
-Email Me 👉 ✉️ **amit267744@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
-## 🔗 I am a Content Creator. 😊😊
+- 🔭 **I’m currently working on:**Web Development, Artificial Intelligence, and Machine Learning projects, including real-world applications.
+- 🌱 **I’m currently learning:** Artificial Intelligence, Machine Learning, System Design, Cloud Technologies, and Advanced Data Structures & Algorithms.
+- 👯 **I’m looking to collaborate on:** Open-source projects, innovative Web Development applications, Artificial Intelligence, and Machine Learning projects.
+- 🤔 **I’m looking for help with:** Open-source projects, Artificial Intelligence, Machine Learning, and building real-world applications.
+- 💬 **Ask me about:** C++, Python, Data Structures & Algorithms, Web Development, Artificial Intelligence, and Machine Learning.
+- 📫 **How to reach me:** amit267744@gmail.com
+  
+- ⚡ **Fun fact:** I love solving challenging problems, building exciting projects, and exploring new technologi
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amit267744@gmail.com) 
