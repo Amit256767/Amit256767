@@ -1,17 +1,18 @@
-💫 Hi 👋, I'm  Amit
-A passionate  Software Developer || Full Stack  
+# 💫 Hi 👋, I'm Amit
+**A passionate Software Developer || Full stack**
 
-Email Me 👉 ✉️  amit267744@gmail.com 
+Email Me 👉 ✉️ **amit267744@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: Enter your project info here
-🌱 I’m currently learning: Enter your tech here
-👯 I’m looking to collaborate on: Enter your project name and info
-🤔 I’m looking for help with: Your project here
-💬 Ask me about:C++, Python, DSA, Web Development, and Machine Learning & Artificial intelligence 
-📫 How to reach me: amit267744@gmail.com
-😄 Pronouns: Amit
-⚡ Fun fact: I enjoy solving problems, building projects, and continuously learning new technologies 🚀
-🔗 I am a Content Creator. 
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Imran Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🔗 I am a Content Creator. 😊😊
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amit267744@gmail.com) 
