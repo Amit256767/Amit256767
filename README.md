@@ -1,15 +1,17 @@
 # 💫 Hi 👋, I'm Amit
-** A passionate Software Developer from India 🇮🇳 who loves turning ideas into modern, innovative, and impactful applications.**
+
+A passionate **Software Developer from India 🇮🇳**.
+I love building modern and impactful applications.
+
+- 🔭 **Working on:** Web Development, AI & Machine Learning
+- 🌱 **Learning:** AI, ML, System Design, Cloud & DSA
+- 👯 **Collaborate on:** Open Source, Web, AI & ML Projects
+- 🤔 **Looking for help with:** Real-world AI & ML Projects
+- 💬 **Ask me about:** C++, Python, DSA, Web Development, AI & ML
+- 📫 **Reach me:** amit26744@gmail.com
+- ⚡ **Fun fact:** I love solving problems and building projects! 🚀
 
 
-- 🔭 **I’m currently working on:**Web Development, Artificial Intelligence, and Machine Learning projects, including real-world applications.
-- 🌱 **I’m currently learning:** Artificial Intelligence, Machine Learning, System Design, Cloud Technologies, and Advanced Data Structures & Algorithms.
-- 👯 **I’m looking to collaborate on:** Open-source projects, innovative Web Development applications, Artificial Intelligence, and Machine Learning projects.
-- 🤔 **I’m looking for help with:** Open-source projects, Artificial Intelligence, Machine Learning, and building real-world applications.
-- 💬 **Ask me about:** C++, Python, Data Structures & Algorithms, Web Development, Artificial Intelligence, and Machine Learning.
-- 📫 **How to reach me:** amit267744@gmail.com
-  
-- ⚡ **Fun fact:** I love solving challenging problems, building exciting projects, and exploring new technologi
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amit267744@gmail.com) 
