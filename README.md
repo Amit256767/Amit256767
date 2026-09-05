@@ -8,7 +8,7 @@ I love building modern and impactful applications.
 - 👯 **Collaborate on:** Open Source, Web, AI & ML Projects
 - 🤔 **Looking for help with:** Real-world AI & ML Projects
 - 💬 **Ask me about:** C++, Python, DSA, Web Development, AI & ML
-- 📫 **Reach me:** amit26744@gmail.com
+- 📫 **Reach me:** amit267744@gmail.com
 - ⚡ **Fun fact:** I love solving problems and building projects! 🚀
 
 
